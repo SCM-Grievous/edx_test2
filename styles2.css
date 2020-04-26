@@ -4,7 +4,7 @@ h2 {
   text-align: center;
 }
 
-p, #form {
+p, #form, button, ul {
   font-size: 14px;
   font-family: sans-serif;
   margin-left: 5px;
